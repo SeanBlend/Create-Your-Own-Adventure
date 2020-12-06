@@ -1,0 +1,18 @@
+.bigmargin {
+    margin-left: 125px;
+}
+button {
+    transition: 200ms transform;
+    margin: 20px 20px;
+    font-size: 50px;
+}
+button:hover {
+    cursor: pointer;
+    transform: translateY(10px);
+}
+h1 {
+    font-size: 100px;
+}
+p {
+    font-size: 50px;
+}
